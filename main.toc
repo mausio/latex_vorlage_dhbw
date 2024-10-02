@@ -1,0 +1,25 @@
+\babel@toc {nil}{}\relax 
+\contentsline {chapter}{\numberline {1}Decision Making}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}History: The Beginning}{7}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Adam Smith}{7}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Von Neumann}{8}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Factors for Consideration}{10}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Technical Considerations}{10}{subsection.1.2.1}%
+\contentsline {subsubsection}{Security, Data Protection and Access Control}{11}{section*.7}%
+\contentsline {subsubsection}{Maintainability and Future-Proofing}{12}{section*.8}%
+\contentsline {subsubsection}{Backwards Compatibility and Legacy Systems}{13}{section*.9}%
+\contentsline {subsubsection}{Personnel Considerations}{14}{section*.10}%
+\contentsline {subsection}{\numberline {1.2.2}Business Considerations}{15}{subsection.1.2.2}%
+\contentsline {subsubsection}{Risks}{15}{section*.11}%
+\contentsline {subsubsection}{Business Impact Analysis}{16}{section*.12}%
+\contentsline {subsubsection}{Compliance with Regulations}{17}{section*.13}%
+\contentsline {subsubsection}{Project, Development and Operational Costs}{18}{section*.14}%
+\contentsline {subsubsection}{Prioritization}{19}{section*.15}%
+\contentsline {subsection}{\numberline {1.2.3}User-Centric Considerations}{20}{subsection.1.2.3}%
+\contentsline {subsubsection}{User Demographics}{20}{section*.16}%
+\contentsline {section}{\numberline {1.3}Decision-Making Models}{22}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Intuitive Decision-Making Model}{22}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Rational Decision-Making Model}{24}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Bounded Rationality Decision-Making Model}{25}{subsection.1.3.3}%
+\contentsline {chapter}{Attachements}{26}{subsection.1.3.3}%
+\contentsline {chapter}{Bibliography}{26}{subsection.1.3.3}%

@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber main"] 1727863772.32554 "main.bcf" "main.bbl" "main" 1727863782.0872 0
+["biber main"] 1727864462.05647 "main.bcf" "main.bbl" "main" 1727864471.75176 0
   "bericht.bib" 1727859650.75498 33990 2d8cd284af8bd1150ce9d39f442195c2 ""
-  "main.bcf" 1727863781.92154 109244 640d8649006ac9123bd2fe5a486c1d2f "pdflatex"
+  "main.bcf" 1727864471.58553 109244 640d8649006ac9123bd2fe5a486c1d2f "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["makeindex main.idx"] 1727863772.21677 "main.idx" "main.ind" "main" 1727863782.08707 0
-  "main.idx" 1727863780.84476 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1727864461.95035 "main.idx" "main.ind" "main" 1727864471.75166 0
+  "main.idx" 1727864470.50924 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1727863780.32189 "/Users/mausio/DHBW/Hausarbeit/Latex-Vorlage 2/main.tex" "main.pdf" "main" 1727863782.08749 0
+["pdflatex"] 1727864469.98466 "/Users/mausio/DHBW/Hausarbeit/Latex-Vorlage 2/main.tex" "main.pdf" "main" 1727864471.75199 0
   "/Users/mausio/DHBW/Hausarbeit/Latex-Vorlage 2/main.tex" 1727863450.39559 6606 8ce6628201229b939e053fd73840a8a4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -242,22 +242,22 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1727855994.37596 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1727855958 8221433 f0350a04cbe573219e9d82cc671e2bd4 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "abk.aux" 1727863781.52913 4180 991fd8244d75913b8939b9195cc0af1d "pdflatex"
+  "abk.aux" 1727864471.20036 4180 991fd8244d75913b8939b9195cc0af1d "pdflatex"
   "abk.tex" 1727862305.35374 1144 99ea08a5ec742e9b30336cd8d92c228d ""
   "bericht.sty" 1727862305.46485 8587 e3f54d02d5bcbf0f35b5671d64bb3083 ""
-  "chapters/Decision_Making.aux" 1727863781.79328 6966 cdb07c256678783e262de9e585f3b8d4 "pdflatex"
+  "chapters/Decision_Making.aux" 1727864471.46281 6966 cdb07c256678783e262de9e585f3b8d4 "pdflatex"
   "chapters/Decision_Making.tex" 1727858764.75106 62396 e6171a586dc1dde9d73bcf74eee8a404 ""
   "erklaerung.tex" 1727861893.58915 1986 67121d462b64329bf4649ae887109a65 ""
-  "main.aux" 1727863781.91478 10621 280dc0348036750b34a288bb9506d2c1 "pdflatex"
-  "main.bbl" 1727863774.95794 48958 714121c14089a07f80dc20c0a56a8e3d "biber main"
-  "main.for" 1727863781.52579 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.ind" 1727863772.3242 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.lof" 1727863781.92228 46 52679462a66e1bbc8d0993b99762a346 "pdflatex"
-  "main.lol" 1727863781.5242 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.lot" 1727863781.9223 46 52679462a66e1bbc8d0993b99762a346 "pdflatex"
-  "main.run.xml" 1727863781.92218 2321 aca2f7eb91c606e8de03d53a712982a6 "pdflatex"
+  "main.aux" 1727864471.57883 10621 280dc0348036750b34a288bb9506d2c1 "pdflatex"
+  "main.bbl" 1727864464.6477 48958 714121c14089a07f80dc20c0a56a8e3d "biber main"
+  "main.for" 1727864471.19718 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.ind" 1727864462.05513 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
+  "main.lof" 1727864471.58638 46 52679462a66e1bbc8d0993b99762a346 "pdflatex"
+  "main.lol" 1727864471.19598 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.lot" 1727864471.5864 46 52679462a66e1bbc8d0993b99762a346 "pdflatex"
+  "main.run.xml" 1727864471.58627 2321 aca2f7eb91c606e8de03d53a712982a6 "pdflatex"
   "main.tex" 1727863450.39559 6606 8ce6628201229b939e053fd73840a8a4 ""
-  "main.toc" 1727863781.92225 2004 3f446ffbc498c157189e2cd4885b8dae "pdflatex"
+  "main.toc" 1727864471.58635 2004 3f446ffbc498c157189e2cd4885b8dae "pdflatex"
   "media/Netze_BW_logo.png" 1727863390.29574 18225 5deeb1f85e278814006f4d64fa533910 ""
   "media/dhbw-logo.png" 1726541388 66959 c9e9f8bcdf209df339ef3c7d21b8c44f ""
   (generated)
